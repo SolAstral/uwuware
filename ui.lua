@@ -326,7 +326,7 @@ function createButton(option, parent)
 		Size = UDim2.new(1, -12, 1, -10),
 		BackgroundTransparency = 1,
 		Image = "rbxassetid://3570695787",
-		ImageColor3 = Color3.fromRGB(125, 46, 242),
+		ImageColor3 = Color3.fromRGB(100, 100, 100),
 		ScaleType = Enum.ScaleType.Slice,
 		SliceCenter = Rect.new(100, 100, 100, 100),
 		SliceScale = 0.02,
